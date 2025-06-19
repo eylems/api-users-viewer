@@ -12,14 +12,14 @@ Bu proje, [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API'si kullan
 
 ## 📂 Proje Yapısı
 
-``JS-2888P-2/
+```JS-2888P-2/
 │
 ├── index.html # Kullanıcılar sayfası
 ├── posts.html # Kullanıcının gönderileri
 ├── users.js # Kullanıcıları API'den çekme ve listeleme
 ├── posts.js # Seçilen kullanıcının gönderilerini çekme
 └── README.md
-``
+```
 ## 🛠️ Kullanılan Teknolojiler
 
 - HTML5
